@@ -5,3 +5,17 @@ https://ctftime.org/task/118
 *8진법의 경우 0o대신 0으로 시작하게 되어 있다.
 
 해결 : 숫자 + 알파벳인 36진법으로 바꾼다.
+
+zombietalk.py를 실행하면
+
+HELLO
+ZOMBIES
+HERE
+IS
+THE
+ACCESS
+FLAG
+WELOVEBRAINZ
+를 얻는다.
+
+(36진법을 이용할 때 숫자가 앞인지 알파벳이 앞인지 알아야 하는데 36진법으로 바꿨을 때의 숫자를 보고 짐작해볼 수 있다.)
