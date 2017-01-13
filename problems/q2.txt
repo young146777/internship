@@ -1,0 +1,9 @@
+https://ctftime.org/task/736
+https://github.com/BatmansKitchen/ctf-writeups/blob/master/2013-asis-ctf/rookie-agent.md
+
+암호문 특징
+
+숫자와 영어 소문자가 섞여 있는 형태이다. 글자가 5글자씩 정리되어 있다.
+
+숫자와 영문을 섞은 치환암호가 아닐까 하는 생각이 든다.
+
